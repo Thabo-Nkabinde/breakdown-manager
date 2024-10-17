@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+make sure to replace https://localhost:7100 to your api local host
+
 In the project directory, you can run:
 
 ### `npm start`
